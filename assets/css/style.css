@@ -455,6 +455,9 @@ input[type="radio"]:checked ~ .bullet .line.seven{
     overflow: hidden;
     outline: 0;
 }
+.modal-backdrop {
+   background-color: red;
+}
 
 /*   bottom index */
 
